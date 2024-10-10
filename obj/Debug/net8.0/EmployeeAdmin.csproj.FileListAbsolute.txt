@@ -123,6 +123,7 @@ C:\Users\shriv\source\repos\EmployeeAdmin\EmployeeAdmin\obj\Debug\net8.0\Employe
 C:\Users\shriv\source\repos\EmployeeAdmin\EmployeeAdmin\obj\Debug\net8.0\EmployeeAdmin.csproj.CoreCompileInputs.cache
 C:\Users\shriv\source\repos\EmployeeAdmin\EmployeeAdmin\obj\Debug\net8.0\EmployeeAdmin.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\shriv\source\repos\EmployeeAdmin\EmployeeAdmin\obj\Debug\net8.0\EmployeeAdmin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shriv\source\repos\EmployeeAdmin\EmployeeAdmin\obj\Debug\net8.0\EmployeeAdmin.sourcelink.json
 C:\Users\shriv\source\repos\EmployeeAdmin\EmployeeAdmin\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\shriv\source\repos\EmployeeAdmin\EmployeeAdmin\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\shriv\source\repos\EmployeeAdmin\EmployeeAdmin\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeAdmin.Microsoft.AspNetCore.StaticWebAssets.props
